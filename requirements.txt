@@ -1,0 +1,5 @@
+pyttsx3 == 2.7
+pyaudio == 0.2.11
+nltk == 3.4.1
+SpeechRecognition == 3.8.1
+gensim == 3.7.2
